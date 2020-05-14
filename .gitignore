@@ -2,3 +2,4 @@
 decoder_models/
 generator_models/
 *.h5
+*.pkl
