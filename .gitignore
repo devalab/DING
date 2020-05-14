@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+decoder_models/
+generator_models/
+*.h5
