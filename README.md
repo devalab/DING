@@ -36,5 +36,12 @@ A brief explanation about the contents of the folders and notebooks is given bel
 Before running any of the notebooks, a new folder `Data` must be created with the dataset, along with the train and test splits, all saved as CSVs. These are loaded in each notebook using Pandas.
 
 ## Publication
-Please cite the following work if you are using this code:
+If you find this useful in your research, please cite:
 
+@article{DING,
+title={Deep Learning Enabled Inorganic Material Generator},
+author={Y. Pathak, K. Singh, G. Varma, M. Ehara and U. D. Priyakumar},
+journal={ChemRxiv},
+year={2020},
+doi={https://doi.org/10.26434/chemrxiv.12312260.v1}
+}
