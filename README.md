@@ -1,4 +1,4 @@
-# DEEP LEARNING ENABLED INROGANIC MATERIAL GENERATOR (DING)
+# DEEP LEARNING ENABLED INORGANIC MATERIAL GENERATOR (DING)
 DING is a framework that can be used for generating inorganic material candidates with given target properties. It consists of a generator module and a predictor module and uses the properties enthalpy of formation, volume per atom and energy per atom from the OQMD Dataset  
 
 In conventional approaches for generating new materials, first a predictor model is trained, then materials are generated combinatorially and the potential candidates are screened using the predictor network. In DING model, generator and predictor models are trained and then the generator model is used to identify potential candidates with the desired properties, which
